@@ -42,5 +42,4 @@ class MainPageTest {
     void shutdown() {
         webDriver.quit();
     }
-
 }
